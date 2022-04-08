@@ -3,6 +3,8 @@
 
 Universal POKSAG message transmitter for one pager or group of pagers. All work with the device is carried out according to the UART protocol and any terminal. Assembled on Arduino Nano and RF7021SE transmitter module
 
+Youtube: https://youtu.be/_yl8x5P07AI
+
 Based on: https://github.com/SinuXVR/arduino-pocsag-transcoder
 
 The ADF7021 (or RF7021SE module) must operate with a 14.7456 MHz TCXO and with at least 2.5 ppm of frequency stability or better. You could use also 12.2880 MHz TCXO. Any other TCXO frequency is not supported.
